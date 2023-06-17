@@ -4,7 +4,7 @@ public class codingthebinarysearch {
     public static void main(String[] args) {
 
         int a[] = {12,23,34,45,56,67,78,89,90,100};
-        int target = 101 ;
+        int target = 23 ;
 
         System.out.println(binarysearch(a , target));
 
